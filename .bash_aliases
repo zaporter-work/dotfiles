@@ -16,6 +16,8 @@ alias dstop='docker stop'
 alias dpr='docker system prune --all'
 alias watch='watch -c'
 
+alias zackvim='vim'
+
 sjob()
 {
     scontrol show job ${1}
