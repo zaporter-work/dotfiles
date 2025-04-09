@@ -125,3 +125,5 @@ export EDITOR=vim
 
 # Local bin directory
 export PATH=${HOME}/.local/bin:${PATH}
+# Hack for now
+export HOME=/root
